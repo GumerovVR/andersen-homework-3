@@ -7,5 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="red_austria">#B71C1C</color>
+    <color name="red">#B71C1C</color>
+    <color name="main_background">#DCEDC8</color>
+    <color name="green">#689F38</color>
+    <color name="blue">#303F9F</color>
+    <color name="yellow_colombia">#FBC02D</color>
 </resources>
