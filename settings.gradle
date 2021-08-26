@@ -7,4 +7,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "AndersenHomework3"
-include ':app'
+include ':task_1'
+include ':task_2'
