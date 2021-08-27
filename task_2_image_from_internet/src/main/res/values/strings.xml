@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task_2</string>
+    <string name="hint_enter_link">Введите ссылку на изображение</string>
+    <string name="cd_image_internet">Изображение из интернета</string>
+    <string name="btn_download">Загрузить</string>
+    <string name="warning_url_empty">Введите ссылку на изображение</string>
+    <string name="warning_url_not_correct">Введена не корректная ссылка</string>
+    <string name="warning_error_image_load">Ошибка загрузки</string>
+</resources>

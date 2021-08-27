@@ -7,5 +7,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "AndersenHomework3"
-include ':task_1'
-include ':task_2'
+include ':task_1_country_flags'
+include ':task_2_image_from_internet'
