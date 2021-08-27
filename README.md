@@ -1,7 +1,7 @@
 # Andresen Домашнее задание №3
 
 ####  Задание №1 (Модуль: task_1_country_flags):
-     - Флаги созданы с помощью стандартных контейнеров: FrameLayout,LinearLayout,ConstraintLayout. 
+     - Флаги созданы с помощью стандартных контейнеров: FrameLayout,LinearLayout,ConstraintLayout
        
      - Все размеры адаптивные
      
